@@ -1,3 +1,5 @@
+package net.struwi.cdisandbox;
+
 import javax.enterprise.context.ApplicationScoped;
 
 @ApplicationScoped

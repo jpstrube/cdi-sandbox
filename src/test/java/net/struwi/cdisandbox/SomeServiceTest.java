@@ -1,3 +1,6 @@
+package net.struwi.cdisandbox;
+
+import net.struwi.cdisandbox.SomeService;
 import org.jglue.cdiunit.CdiRunner;
 import org.jglue.cdiunit.InRequestScope;
 import org.junit.Test;
